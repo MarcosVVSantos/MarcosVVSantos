@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Marcos Vinicio  
 
 💡 Um curioso por tecnologia que adora transformar ideias em soluções reais.  
-Atualmente estudo **Desenvolvimento de Software Multiplataforma na FATEC Cotia (2024–2027)** e busco oportunidades como **Estagiário, Trainee ou Analista de Desenvolvimento/Automação**.  
+Atualmente estudo **Desenvolvimento de Software Multiplataforma na FATEC Cotia ** **.  
 
 ---
 
